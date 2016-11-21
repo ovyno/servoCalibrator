@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ServoData.qml</file>
+        <file>Button.qml</file>
+        <file>InputField.qml</file>
+        <file>HorizontalSlider.qml</file>
+        <file>Label.qml</file>
+        <file>ConnectData.qml</file>
+    </qresource>
+</RCC>
